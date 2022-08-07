@@ -11,8 +11,7 @@
    "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--**AlanBuss/AlanBuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 Estou trabalhando atualmente em uma empresa de Internet, no suporte Técnico. ...
-- 🌱 Atualmente estou aprendendo Python...
+- 🔭 Estou atualmente estudando para me tornar um dev
+- 🌱 Estudando linguagens voltadas para web e mobile
 - 🤔 Procuro por ajuda em desenvolvimento mobile.
 - ⚡ Fun fact: Cursando Direito e Analise e Desenvolvimento de Sistemas.
-
