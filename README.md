@@ -1,4 +1,4 @@
-### Oi! Tudo bem? 👋
+### Opa! Tudo certo? 👋
 
 <div align="center">
   <a href="https://instagram.com/alan_buss">
