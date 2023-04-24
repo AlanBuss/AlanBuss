@@ -14,7 +14,7 @@
 - 🔭 Estou atualmente estudando para me tornar um dev
 - 🌱 Estudando linguagens voltadas para web e mobile
 - 🤔 Procuro por ajuda em desenvolvimento mobile.
-- ⚡ Fun fact: Cursando Direito e Analise e Desenvolvimento de Sistemas.
+- ⚡ Fun fact: Nenhum por enquanto kk
 
 
 <!--https://github.com/AlanBuss-->
