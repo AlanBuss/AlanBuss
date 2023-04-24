@@ -12,7 +12,7 @@
 <!--**AlanBuss/AlanBuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 Estou atualmente estudando para me tornar um dev
-- 🌱 Estudando linguagens voltadas para web e mobile
+- 🌱 Atualmente estudando DART utilizando Flutter.
 - 🤔 Procuro por ajuda em desenvolvimento mobile.
 - ⚡ Fun fact: Nenhum por enquanto kk
 
