@@ -9,11 +9,8 @@ Opa! Tudo certo? 👋
   <a href="https://instagram.com/alan_buss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-
-🔭 Atualmente estou estudando para me tornar um desenvolvedor.
-
+<p>
+🔭 Atualmente estou estudando para me tornar um desenvolvedor.</p>
 🌱 Estou aprendendo DART e utilizando Flutter.
-
 🤔 Procuro por ajuda em desenvolvimento mobile.
-
 ⚡ Curiosidade: Nenhuma por enquanto. 😅
