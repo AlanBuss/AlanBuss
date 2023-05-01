@@ -5,7 +5,7 @@ Opa! Tudo certo? 👋
 </div>
 <div align="center">
   <p>Entre em contato comigo:</p>
-  <a href="mailto:alanbuss38@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="alanbuss38@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/alan_buss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 🔭 Atualmente estou estudando para me tornar um desenvolvedor.
